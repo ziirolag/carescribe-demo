@@ -1,0 +1,17 @@
+{
+  "name": "Care Scribe",
+  "short_name": "Care Scribe",
+  "description": "Voice-first charting for the emergency department",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8f3",
+  "theme_color": "#12372a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

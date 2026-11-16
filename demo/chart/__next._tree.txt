@@ -1,0 +1,7 @@
+:HL["/carescribe-demo/_next/static/chunks/0tbf4fh9kkooz.css","style"]
+:HL["/carescribe-demo/_next/static/chunks/2qzd_ztzm3cs-.css","style"]
+:HL["/carescribe-demo/_next/static/chunks/3la_rb8ye5lc3.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"chart","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"demo","h":96,"c":"$Q2"}]]
+0:{"b":"qstFcD-29SWUjo0ujS1IE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

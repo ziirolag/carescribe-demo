@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Care Scribe</title>
+  <rect width="128" height="128" rx="34" fill="#12372a"/>
+  <path d="M38 39h30c17 0 29 10 29 25S85 89 68 89H38V39Zm16 13v24h13c8 0 14-4 14-12s-6-12-14-12H54Z" fill="#cfe8d8"/>
+  <circle cx="92" cy="92" r="11" fill="#e66b52"/>
+  <path d="M89 85h6v4h4v6h-4v4h-6v-4h-4v-6h4v-4Z" fill="#fff"/>
+</svg>
